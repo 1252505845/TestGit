@@ -1,4 +1,5 @@
 sadsd
 edit by long   202005024
-master add   
+master add   long add 
+>>>>>>> long
 edit by master 
